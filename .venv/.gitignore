@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*__pycach__/
+.env
+*.db
+*.sqlite
+*.sqlite
+*.sqlite3
